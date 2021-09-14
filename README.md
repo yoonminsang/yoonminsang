@@ -1,4 +1,20 @@
-### Hi there 👋
+# 윤민상 👋
+
+### 프론트(풀스택)개발자가 되기를 원합니다.
+
+2019.10.20 ~ ing 
+
+💻 Woowahan Techcamp (21.07 ~ 21.08)
+
+📃 [블로그](https://ms3864.tistory.com/)
+
+📃 [유튜브](https://www.youtube.com/channel/UC5xQ2M7Ux_RNQmVU3ucim5w)
+
+📃 [이력서](https://mulberry-foxglove-aa3.notion.site/b31f1cf785ec4d898022f22d6ac8aaec)
+
+💬 apdlyooapdl@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonminsang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yoonminsang/yoonminsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
