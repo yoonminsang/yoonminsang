@@ -12,6 +12,8 @@
 
 📃 [이력서](https://mulberry-foxglove-aa3.notion.site/b31f1cf785ec4d898022f22d6ac8aaec)
 
+📃 [포트폴리오] (https://mulberry-foxglove-aa3.notion.site/dde2cc656e4949dfb89527b3780e5db3)
+
 💬 apdlyooapdl@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonminsang)](https://github.com/anuraghazra/github-readme-stats)
