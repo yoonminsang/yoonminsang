@@ -5,6 +5,7 @@
 2019.10.20 ~ ing 
 
 💻 Woowahan Techcamp (21.07 ~ 21.08)
+🏢 Classum (21.03.07~)
 
 📃 [블로그](https://ms3864.tistory.com/)
 
