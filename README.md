@@ -16,6 +16,10 @@
 
 💬 apdlyooapdl@gmail.com
 
+### 기술 블로그
+
+- [컴포넌트를 잘 만드는 방법(리액트)](https://ms3864.tistory.com/433)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonminsang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsang&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
