@@ -19,6 +19,10 @@
 - [컴포넌트를 잘 만드는 방법(리액트)](https://ms3864.tistory.com/433)
 - [라이브러리없이 리액트 만들기(클래스형 컴포넌트)](https://ms3864.tistory.com/435)
 
+### 회고
+
+- [1년차 개발자 회고(웹 프론트)](https://ms3864.tistory.com/458)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonminsang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsang&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
