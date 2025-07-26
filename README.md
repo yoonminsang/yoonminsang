@@ -1,12 +1,12 @@
 # 윤민상 👋
 
-### 프론트(풀스택)개발자가 되기를 원합니다.
+### 프론트 개발자입니다.
 
 2019.10.20 ~ ing 
 
-💻 Woowahan Techcamp (21.07 ~ 21.08)
+🏢 Classum (22.03 ~ 25.08)
 
-🏢 Classum (22.03.07~)
+💻 Woowahan Techcamp (21.07 ~ 21.08)
 
 📃 [블로그](https://ms3864.tistory.com/)
 
@@ -16,6 +16,7 @@
 
 ### 기술 블로그
 
+- [useState, useEffect, useRef 만들기(feat. 클로저)](https://ms3864.tistory.com/469)
 - [3년차 프론트엔드 개발자가 보는 테스트코드(feat. 유의미한 테스트코드)](https://ms3864.tistory.com/467)
 - [라이브러리없이 리액트 만들기(클래스형 컴포넌트)](https://ms3864.tistory.com/435)
 - [컴포넌트를 잘 만드는 방법 2편(리액트)](https://ms3864.tistory.com/464)
